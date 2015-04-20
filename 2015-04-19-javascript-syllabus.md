@@ -30,9 +30,10 @@ This class will focus on conditional and looping statements, showing how to iter
 - **Conditionals**: using if and switch statements to set conditional routines
 - **Loops**: using for, while, and do statements to iterate over variables
 
-## Week 4 - Data Structures and Algorithms
+## Week 4 - Inheritance, Data Structures, and Algorithms
 
-- Various data structures
+- **Inheritance**: object orientation in JavaScript, pseudoclassicalism, prototypal inheritance
+- **Data Structures**:  
 - Search and Sort
 - Various algorithms
 
