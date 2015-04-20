@@ -16,12 +16,16 @@ This class will provide a context for JavaScript, explain some programming best 
 
 ## Week 2 - Functions
 
+This class will explain how to work with various types of functions, how to pass in arguments, and how to deal with objects that are returned. 
+
+- **Objects**: discuss functions as objects and their prototypal nature
+- **Arguments**: how to pass in objects to be used by a function
+- **Recursion**: functions that invoke themselves to solve subproblems
+- **Callbacks**: the building blocks of JavaScript's asynchronicity
+
+## Week 3 - Statements & Loops
 
 
-- Functions
-- Arguments/Parameters
-
-## Week 3 - Expressions Loops
 
 - Conditional expressions
 - For loops
