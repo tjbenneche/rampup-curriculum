@@ -32,12 +32,15 @@ This class will focus on conditional and looping statements, showing how to iter
 
 ## Week 4 - Inheritance, Data Structures, and Algorithms
 
+This class will examine some classic computer science problems, approaches for solving them, and how inheritance works in JavaScript.
+
 - **Inheritance**: object orientation in JavaScript, pseudoclassicalism, prototypal inheritance
-- **Data Structures**:  
-- Search and Sort
-- Various algorithms
+- **Data Structures**: classic computer science paradigms in JavaScript 
+- **Algorithms**: various search and sort techniques, runtime performance
 
 ## Week 5 - JavaScript on The Web
+
+
 
 - DOM manipulation
 - Using selectors
