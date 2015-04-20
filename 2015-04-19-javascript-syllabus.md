@@ -52,7 +52,7 @@ This class will introduce popular JavaScript web frameworks, particularly jQuery
 - **Frameworks**: how to include a framework or library in your project, various usecases
 - **jQuery**: implement jQuery, examine source code to compare to functions written in class, review syntax differences from vanilla JavaScript
 
-## Week 7 - AJAX & JSON
+## Week 7 - AJAX & JSON, Interacting with Data
 
 This class will explain how to work with external data objects, the JSON format, and asynchronous interaction via AJAX.
 
