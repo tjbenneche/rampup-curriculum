@@ -30,7 +30,7 @@ This class will focus on conditional and looping statements, showing how to iter
 - **Conditionals**: using if and switch statements to set conditional routines
 - **Loops**: using for, while, and do statements to iterate over variables
 
-## Week 4 - Inheritance, Data Structures, and Algorithms
+## Week 4 - Inheritance, Data Structures, & Algorithms
 
 This class will examine some classic computer science problems, approaches for solving them, and how inheritance works in JavaScript.
 
@@ -45,14 +45,14 @@ This class will depart from JavaScript fundamentals to demonstrate its use on th
 - **DOM Manipulation**: how to use selectors and manipulate elements on a web page via user action 
 - **Basic Web Functions**: build simple functions that would be found in a framework like jQuery to handle interaction on the web
 
-## Week 6 - jQuery and Other Libraries
+## Week 6 - jQuery & Other Libraries
 
 This class will introduce popular JavaScript web frameworks, particularly jQuery, and their implementation.
 
 - **Frameworks**: how to include a framework or library in your project, various usecases
 - **jQuery**: implement jQuery, examine source code to compare to functions written in class, review syntax differences from vanilla JavaScript
 
-## Week 7 - Interacting with Data, AJAX & JSON
+## Week 7 - Interacting with Data: AJAX & JSON
 
 This class will explain how to work with external data objects, the JSON format, and asynchronous interaction via AJAX.
 
