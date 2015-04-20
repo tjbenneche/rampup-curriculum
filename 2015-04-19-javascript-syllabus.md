@@ -1,13 +1,17 @@
 # An Introduction to JavaScript
 
-This is an eight-week course..
+This is an eight-week course on the fundamentals of computer programming in JavaScript, and its practical uses on the web. 
 
 ## Week 1 - The Basics of Computer Programming
+
+
 
 - History
 - Logic
 - Syntax
 - Types (OO, functional, prototype)
+- Documentation
+- Testing/Debugging
 
 ## Week 2 - Datatypes and Functions
 
