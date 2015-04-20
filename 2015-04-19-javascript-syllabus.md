@@ -25,13 +25,10 @@ This class will explain how to work with various types of functions, how to pass
 
 ## Week 3 - Statements & Loops
 
-This class will focus on conditional and looping statements, showing how to 
+This class will focus on conditional and looping statements, showing how to iterate through objects and evaluate if certain conditions have been met.
 
-- Conditional expressions
-- For loops
-- While loops
-- Switch cases
-- Try/catch
+- **Conditionals**: using if and switch statements to set conditional routines
+- **Loops**: using for, while, and do statements to iterate over variables
 
 ## Week 4 - Data Structures and Algorithms
 
