@@ -16,6 +16,8 @@ This class will provide a context for JavaScript, explain some programming best 
 
 ## Week 2 - Functions
 
+
+
 - Functions
 - Arguments/Parameters
 
