@@ -25,7 +25,7 @@ This class will explain how to work with various types of functions, how to pass
 
 ## Week 3 - Statements & Loops
 
-
+This class will focus on conditional and looping statements, showing how to 
 
 - Conditional expressions
 - For loops
