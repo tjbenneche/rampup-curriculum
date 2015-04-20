@@ -40,15 +40,21 @@ This class will examine some classic computer science problems, approaches for s
 
 ## Week 5 - JavaScript on The Web
 
-This class departs from JavaScript fundamentals to demonstrate its use on the web, how to manipulate HTML/CSS, and the building blocks of popular frameworks.
+This class will depart from JavaScript fundamentals to demonstrate its use on the web, how to manipulate HTML/CSS, and the building blocks of popular frameworks.
 
 - **DOM Manipulation**: how to use selectors and manipulate elements on a web page via user action 
 - **Basic Web Functions**: build simple functions that would be found in a framework like jQuery to handle interaction on the web
 
 ## Week 6 - jQuery and Other Libraries
 
+This class will introduce popular JavaScript web frameworks, particularly jQuery, and their implementation.
+
+- **Frameworks**: how to include a framework or library in your project, various usecases
+- **jQuery**: implement jQuery, examine source code to compare to functions written in class, review syntax differences from vanilla JavaScript
 
 ## Week 7 - AJAX & JSON
+
+
 
 ## Week 8 - Hackathon & Presentations
 
