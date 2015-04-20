@@ -6,13 +6,13 @@ This is an eight-week course on the fundamentals of computer programming in Java
 
 This class will provide a context for JavaScript, explain some programming best practices, and introduce some basic syntax and data types.
 
-- History
-- Types (OO, functional, prototype)
-- Documentation
-- Testing/Debugging
-- Syntax
-- Variables
-- Data Types
+- **Programming Languages**: different types of languages, where JavaScript fits in
+- **History**: a brief discussion of JavaScript's past, and how far it's come
+- **Documentation**: the benefits of well documented code
+- **Testing & Debugging**: different methods for testing, debugging
+- **Syntax**: a quick look at the basic syntax of JavaScript
+- **Variables**: practice declaring variables 
+- **Data Types**: an overview of the various data types in JavaScript
 
 ## Week 2 - Functions
 
