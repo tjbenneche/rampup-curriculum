@@ -1,6 +1,6 @@
 # An Introduction to JavaScript
 
-This is an eight-week course on the fundamentals of computer programming in JavaScript, and its practical uses on the web. The former will comprise the first half of the course — taking you through functions, data structures, and algorithms. The second half will focus on applying JavaScript in modern web development.
+This is an eight-week course on the fundamentals of computer programming in JavaScript, and its practical uses on the web. The former will comprise the first half of the course — taking you through functions, data structures, and algorithms. The second half will focus on applying JavaScript in modern web development. Students should walk away with a solid understanding of programming techniques, classic computer science paradigms, JavaScript fundamentals and its application on the web.
 
 ## Week 1 - The Basics of Computer Programming
 
@@ -54,10 +54,14 @@ This class will introduce popular JavaScript web frameworks, particularly jQuery
 
 ## Week 7 - AJAX & JSON
 
+This class will explain how to work with external data objects, the JSON format, and asynchronous interaction via AJAX.
 
+- **JSON**: overview of syntax, uses, and methods for interacting with data in this format
+- **AJAX**: how to make HTTP requests via JavaScript, asynchronously load content and pass data without refreshing the page
 
 ## Week 8 - Hackathon & Presentations
 
+In this class, students will break into small teams to tackle a challenge given by the instructor. Following the hackathon, groups will present their results and discuss the various approaches taken.
 
 
 
