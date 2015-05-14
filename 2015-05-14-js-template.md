@@ -4,7 +4,8 @@
 
 1. Any questions? 
 2. Go around individually and answer questions, make note of recurring ones to go over with class to be efficient
-3. Show correct answer with class (work through pieces if small enough, probably not enough time as labs get more complex)
+3. Popcorn questions for last week's class
+4. Show correct answer with class (work through pieces if small enough, probably not enough time as labs get more complex)
 
 ## Discuss agenda/overall concepts
 
