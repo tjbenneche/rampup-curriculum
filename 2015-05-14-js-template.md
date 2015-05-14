@@ -23,6 +23,7 @@
 **Whiteboard Example**
 
 - Curriculum-provided example to go over piece by piece
+- Ask for student input, try to challenge them and get their ideas before providing answer
 
 **Individual Exercises**
 
