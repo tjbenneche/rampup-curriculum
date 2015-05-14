@@ -2,43 +2,46 @@
 
 ## Review
 
-any questions? 
-
-go around individually and answer questions, make note of recurring ones to go over with class to be efficient
-
-show correct answer with class (work through pieces if small enough, probably not enough time as labs get more complex)
+1. Any questions? 
+2. Go around individually and answer questions, make note of recurring ones to go over with class to be efficient
+3. Show correct answer with class (work through pieces if small enough, probably not enough time as labs get more complex)
 
 ## Discuss agenda/overall concepts
 
-what we're learning today, how it fits in to overall goals, why we're doing it this way/in this order
+- What we're learning today
+- How it fits in to overall goals
+- Why we're doing it this way/in this order
 
 ## 1st Concept
 
-**discuss, provide context**
+**Discuss, Provide Context**
 
-purpose
-syntax
-execution
+1. Purpose
+2. Pseudo-code, logic (on whiteboard)
+3. JavaScript Syntax
 
-**whiteboard example**
+**Whiteboard Example**
 
-curriculum-provided example to go over piece by piece
+- Curriculum-provided example to go over piece by piece
 
-**individual exercises**
+**Individual Exercises**
 
-curriculum-provided web exercises (manipulating pre-built web elements in custom rampup editor)
+- Curriculum-provided web exercises (manipulating pre-built web elements in custom rampup editor)
 
-**group exercise**
+**Group Exercise**
 
-go over correct answers for individual exercises together (ideally student-driven from ones that got it)
+- Go over correct answers for individual exercises together (ideally student-driven from ones that got it)
 
 ## ...
 
-repeat for remaining concepts
+Repeat for remaining concepts
 
-## Review, introduce homework
+## Review, Introduce Homework
 
-explain homework, what concepts it covers, what to use from class to build off, answer any questions
+1. Explain homework
+- What concepts it covers 
+- What to use from class to build off 
+- Answer any questions
 
 
 
