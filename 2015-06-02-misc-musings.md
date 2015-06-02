@@ -16,5 +16,6 @@ on to actually using framework
 - week 7 - provide data in JSON and teach how to use it with AJAX
 - exercises
 - explainer doc for jobs in front-end/design space, skillsets needed for diffferent jobs, growth opportunities, etc
-- 
+- Slack
+- Project ideas (will keep running doc from class)
 
