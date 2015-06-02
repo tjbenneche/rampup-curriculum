@@ -18,4 +18,4 @@ on to actually using framework
 - explainer doc for jobs in front-end/design space, skillsets needed for diffferent jobs, growth opportunities, etc
 - Slack
 - Project ideas (will keep running doc from class)
-
+- avenues for further learning, additional resources
