@@ -108,6 +108,7 @@ You'll notice each article tag is given a class of "blog-post", but only the fir
     
 In this setup, each article will have a font color of blue, some margin on the top and bottom for spacing, and a font size of 16px. The article with id="most-recent", however, will have its font size increased to 24px because IDs are weighted more heavily than classes.
 
+## More Exercises
 
 Here are some extra exercises you can take a look at on **selectors**
 
