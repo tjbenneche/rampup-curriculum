@@ -180,4 +180,6 @@ Because there are so many different ways to select an element, the decision maki
 3. Use IDs sparingly, and avoid inline styles altogether. Each of these has a tendency to break the "cascading" nature of CSS (cascading style sheets). When reading through code, it will be apparent which rules are more specific by the length of the selector chain preceding them. IDs and inline styles muddle these snap judgements that prove to be big time savers in debugging.
 
 
+Here are some extra exercises you can take a look at on **selectors**
+
 [Selectors Exercises](http://www.codecademy.com/courses/web-beginner-en-WF0CF/0/1?curriculum_id=50579fb998b470000202dc8b)
